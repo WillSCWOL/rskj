@@ -1,0 +1,72 @@
+{
+   "devnet": {
+      "maturity" : 20,
+      "syntheticSpan" : 10,
+      "rskLabsDivisor" : 5,
+      "punishmentDivisor" : 10,
+      "publishersDivisor" : 10,
+      "federationDivisor" : 100,
+      "rskLabsAddress" : "3607242634482992bb9feecacb15f5880760838d",
+      "lateUncleInclusionPunishmentDivisor": 20
+   },
+   "regtest": {
+      "maturity" : 10,
+      "syntheticSpan" : 5,
+      "rskLabsDivisor" : 5,
+      "punishmentDivisor" : 10,
+      "publishersDivisor" : 10,
+      "federationDivisor" : 100,
+      "rskLabsAddress" : "3607242634482992bb9feecacb15f5880760838d",
+      "lateUncleInclusionPunishmentDivisor": 20,
+      "paidFeesMultiplier": 2,
+      "paidFeesDivisor": 1
+   },
+   "main": {
+      "maturity" : 1000,
+      "syntheticSpan" : 10,
+      "rskLabsDivisor" : 5,
+      "punishmentDivisor" : 10,
+      "publishersDivisor" : 10,
+      "federationDivisor" : 100,
+      "rskLabsAddress" : "3607242634482992bb9feecacb15f5880760838d",
+      "lateUncleInclusionPunishmentDivisor": 20,
+      "paidFeesMultiplier": 2,
+      "paidFeesDivisor": 1
+   },
+   "fallbackmain": {
+      "maturity" : 1000,
+      "syntheticSpan" : 10,
+      "rskLabsDivisor" : 5,
+      "punishmentDivisor" : 10,
+      "publishersDivisor" : 10,
+      "federationDivisor" : 100,
+      "rskLabsAddress" : "3607242634482992bb9feecacb15f5880760838d",
+      "lateUncleInclusionPunishmentDivisor": 20,
+      "paidFeesMultiplier": 2,
+      "paidFeesDivisor": 1
+   },
+   "testnet": {
+      "maturity" : 50,
+      "syntheticSpan" : 10,
+      "rskLabsDivisor" : 5,
+      "punishmentDivisor" : 10,
+      "publishersDivisor" : 10,
+      "federationDivisor" : 100,
+      "rskLabsAddress" : "3607242634482992bb9feecacb15f5880760838d",
+      "lateUncleInclusionPunishmentDivisor": 20,
+      "paidFeesMultiplier": 2,
+      "paidFeesDivisor": 1
+   },
+   "testnetdev": {
+      "maturity" : 10,
+      "syntheticSpan" : 5,
+      "rskLabsDivisor" : 5,
+      "punishmentDivisor" : 10,
+      "publishersDivisor" : 10,
+      "federationDivisor" : 100,
+      "rskLabsAddress" : "3607242634482992bb9feecacb15f5880760838d",
+      "lateUncleInclusionPunishmentDivisor": 20,
+      "paidFeesMultiplier": 2,
+      "paidFeesDivisor": 1
+   }
+}
